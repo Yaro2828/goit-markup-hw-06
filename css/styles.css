@@ -584,6 +584,7 @@ img {
   display: inline-flex;
   justify-content: center;
   gap: 10px;
+  cursor: pointer;
 }
 /* ________________________PORTFOLIO_________________________________ */
 
